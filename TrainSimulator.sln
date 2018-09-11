@@ -7,20 +7,25 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsTests", "FsTests\FsTests.
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TrainSimulator", "TrainSimulator\TrainSimulator.fsproj", "{E5D2345D-685A-4404-B523-D6D036E14F33}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21D6E5ED-68F2-48A7-B14E-C34C019B4BCD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E5D2345D-685A-4404-B523-D6D036E14F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E5D2345D-685A-4404-B523-D6D036E14F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E5D2345D-685A-4404-B523-D6D036E14F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E5D2345D-685A-4404-B523-D6D036E14F33}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C6F84934-BBBF-433C-A76E-55A8CE55875C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C6F84934-BBBF-433C-A76E-55A8CE55875C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6F84934-BBBF-433C-A76E-55A8CE55875C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6F84934-BBBF-433C-A76E-55A8CE55875C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D2345D-685A-4404-B523-D6D036E14F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D2345D-685A-4404-B523-D6D036E14F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D2345D-685A-4404-B523-D6D036E14F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D2345D-685A-4404-B523-D6D036E14F33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
