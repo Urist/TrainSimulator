@@ -9,12 +9,12 @@ TODO:
 * Double follow-ups
 * Stat tracking
 * Varying strategies
-** Play on own first
-** Play on party first
-** Play on others first
-** Play most points first
-** My secret strategy
-** Other smarter things...?
+  * Play on own first
+  * Play on party first
+  * Play on others first
+  * Play most points first
+  * My secret strategy
+  * Other smarter things...?
 
 DONE:
 * Figure out test methods
