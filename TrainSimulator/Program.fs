@@ -2,10 +2,15 @@
 // See the 'F# Tutorial' project for more help.
 
 open Source
+open Source2
 
 [<EntryPoint>]
 let main argv = 
     printfn "%A" argv
+
+    printfn "%A" (Seq.toList MapTiles)
+
+    exit 0
 
     let RoundNumber = 0
     let NumberOfTrains = 2
